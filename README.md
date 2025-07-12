@@ -4,3 +4,6 @@ Developed a full-stack real-time chat application with the MERN stack, featuring
 ### MongoDB URI
 ```MONGODB_URI="mongodb+srv://Mragrawal20:Kanishk123@cluster0.wglux5i.mongodb.net"```
 
+### VITE Backend Port
+```VITE_BACKEND_URL='http://localhost:5000'```
+
