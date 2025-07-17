@@ -16,6 +16,8 @@ This is a full-stack real-time chat application built using the MERN stack (Mong
 
 ⚡ Vite + React – Lightning-fast frontend development.
 
+
+
 ## 🧩 Tech Stack
 ### Frontend:
 
