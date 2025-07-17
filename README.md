@@ -1,4 +1,3 @@
-<img width="1718" height="797" alt="Screenshot 2025-07-17 194325" src="https://github.com/user-attachments/assets/393cd29c-76e7-40f1-9779-7071062e9add" />
 # Real-Time-Chat-Application
 
 ## Overview 
@@ -41,4 +40,17 @@ MongoDB with Mongoose
 JWT Authentication
 
 WebSockets (Socket.IO or similar)
+
+
+<img width="1718" height="797" alt="Screenshot 2025-07-17 194325" src="https://github.com/user-attachments/assets/393cd29c-76e7-40f1-9779-7071062e9add" />
+
+<img width="1767" height="837" alt="Screenshot 2025-07-17 193544" src="https://github.com/user-attachments/assets/f1f6989a-fd0c-451a-9cfc-980b29fbac6c" />
+
+<img width="1730" height="830" alt="Screenshot 2025-07-17 194302" src="https://github.com/user-attachments/assets/00348786-9d91-4adb-8f3f-5aa146ac3a73" />
+
+<img width="1895" height="882" alt="Screenshot 2025-07-17 193939" src="https://github.com/user-attachments/assets/b6cf8795-99ab-4a4c-a8b7-1d7f594ff7c5" />
+
+<img width="1851" height="852" alt="Screenshot 2025-07-17 194239" src="https://github.com/user-attachments/assets/c8f18f53-95e6-49cb-80cd-27c338565af7" />
+
+
 
