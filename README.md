@@ -1,3 +1,4 @@
+<img width="1718" height="797" alt="Screenshot 2025-07-17 194325" src="https://github.com/user-attachments/assets/393cd29c-76e7-40f1-9779-7071062e9add" />
 # Real-Time-Chat-Application
 
 ## Overview 
