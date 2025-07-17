@@ -5,7 +5,7 @@
 This is a full-stack real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, and chat instantly with other users in a clean and responsive interface. The frontend is developed using React with Vite, styled with Tailwind CSS, and uses Context API for state management. The backend handles authentication, message storage, and real-time communication using WebSockets.
 
 
-# 🚀 Features
+## 🚀 Features
 🔐 Authentication – Sign up, login, and secure sessions with JWT.
 
 👤 User Management – Manage online/offline status, user list.
@@ -16,7 +16,7 @@ This is a full-stack real-time chat application built using the MERN stack (Mong
 
 ⚡ Vite + React – Lightning-fast frontend development.
 
-##🧩 Tech Stack
+## 🧩 Tech Stack
 ### Frontend:
 
 React.js (Vite)
