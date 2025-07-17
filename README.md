@@ -1,9 +1,18 @@
-# Real-Time-Chat-Application
-Developed a full-stack real-time chat application with the MERN stack, featuring user authentication (login/signup) and instant message delivery using Socket.IO for bi-directional communication.
+## Real-Time-Chat-Application
 
-### MongoDB URI
-```MONGODB_URI="mongodb+srv://Mragrawal20:Kanishk123@cluster0.wglux5i.mongodb.net"```
+# Overview 
 
-### VITE Backend Port
-```VITE_BACKEND_URL='http://localhost:5000'```
+This is a full-stack real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, and chat instantly with other users in a clean and responsive interface. The frontend is developed using React with Vite, styled with Tailwind CSS, and uses Context API for state management. The backend handles authentication, message storage, and real-time communication using WebSockets.
+
+
+# 🚀 Features
+🔐 Authentication – Sign up, login, and secure sessions with JWT.
+
+👤 User Management – Manage online/offline status, user list.
+
+💬 Real-time Messaging – Instant chat using WebSockets.
+
+🧠 Context API – Global state management.
+
+⚡ Vite + React – Lightning-fast frontend development.
 
