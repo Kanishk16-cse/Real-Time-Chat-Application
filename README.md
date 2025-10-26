@@ -6,6 +6,9 @@ This is a full-stack real-time chat application built using the MERN stack (Mong
 
 
 ## 🚀 Features
+
+Deployment Link : https://chat-frontend-4ndg-git-main-kanishk-gargs-projects.vercel.app?_vercel_share=FePQZDx04iQOdMAHZsRLh8moKBe29uoi
+
 🔐 Authentication – Sign up, login, and secure sessions with JWT.
 
 👤 User Management – Manage online/offline status, user list.
